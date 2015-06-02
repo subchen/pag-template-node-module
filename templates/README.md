@@ -1,2 +1,0 @@
-jetbrick-maven-archetypes
-=========================
