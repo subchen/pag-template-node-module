@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/subchen/pag-template-node-module.svg?branch=master)](https://travis-ci.org/subchen/pag-template-node-module)
-[![Code Coverage](https://img.shields.io/coveralls/subchen/pag-template-node-module/master.svg)](https://coveralls.io/r/subchen/pag-template-node-module)
 [![NPM Repo](https://img.shields.io/npm/v/pag-template-node-module.svg)](https://www.npmjs.com/package/pag-template-node-module)
 [![License](http://img.shields.io/badge/License-Apache_2-red.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0)
 
