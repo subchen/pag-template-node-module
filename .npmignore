@@ -4,9 +4,9 @@ coverage/
 
 *.log
 
-Gruntfile.js
-.gitignore
-.jsbeautifyrc
-.jscsrc
-.jshintrc
-.travis.yml
+/Gruntfile.js
+/.gitignore
+/.jsbeautifyrc
+/.jscsrc
+/.jshintrc
+/.travis.yml
